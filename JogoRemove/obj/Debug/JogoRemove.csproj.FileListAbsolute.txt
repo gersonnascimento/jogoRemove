@@ -1,0 +1,9 @@
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\bin\Debug\JogoRemove.exe.config
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\bin\Debug\JogoRemove.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\bin\Debug\JogoRemove.pdb
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\obj\Debug\JogoRemove.csprojResolveAssemblyReference.cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\obj\Debug\JogoRemove.Form1.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\obj\Debug\JogoRemove.Properties.Resources.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\obj\Debug\JogoRemove.csproj.GenerateResource.Cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\obj\Debug\JogoRemove.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\JogoRemove\JogoRemove\obj\Debug\JogoRemove.pdb
